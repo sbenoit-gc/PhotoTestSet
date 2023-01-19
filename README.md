@@ -5,5 +5,5 @@
 A collection of images for photogrammetry that have been successfully processed with Meshroom, Scanamaze, and PhotoCatch. An overview is available in PhotogrammetryDemoMakerspace.pdf
 
 ## Usage
-Clone, or download the zip, to a local directory. 
+Clone the project, or download the zip'ed prroject, to a local directory. 
 
